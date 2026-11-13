@@ -51,15 +51,13 @@ We work on collaborative projects that help us learn, experiment, and develop ou
 
 | Project | Description |
 |---|---|
-| 🚀 Project 01 | Coming Soon |
-| 💡 Project 02 | Coming Soon |
-| 🌐 Project 03 | Coming Soon |
+| 💡 Smart Campus | Coming Soon |
 
 *More exciting projects are on the way!*
 
 ## 🤝 Our Philosophy
 
-> Great ideas become greater when people build them together.
+> Great ideas become greater when people who has the same wavelength build them together!
 
 At JAN Labs, we value:
 
@@ -71,6 +69,7 @@ At JAN Labs, we value:
 ## 📬 Connect With Us
 
 Interested in our work or want to collaborate?
+Mailto : janlabs333@gmail.com
 
 **Let's connect and create something meaningful!**
 
